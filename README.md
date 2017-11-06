@@ -1,5 +1,5 @@
 # CG_T1
-Implementação dos algoritmos Bresenham e Scanline.
+Implementação dos algoritmos Bresenham e Scanline em Java e LWJGL.
 
 ## Alunos:
 André Levi Zanon;
